@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfApplication1.Start"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Start" Height="300" Width="512">
+    <Grid>
+        <Button Height="27" HorizontalAlignment="Left" Margin="179,222,0,0" Name="button1" VerticalAlignment="Top" Width="98" Content="Все понятно" Click="button1_Click" />
+        <Label Content="Инструкция: 
+Для того, чтобы построить объект распространения, задайте вершины контура
+с помощью нажатий мыши на поле. Чтобы объект отобразился, нажмите
+кнопку Задать контур. Далее, установите датчик на границе
+(для этого необходимо перетащить его в нужное место). Чтобы датчик был
+установлен точно на границе, нажмите кнопку Установить датчик.
+Угол ввода задается в предназначенном для этого поле ввода 
+(от 0 до 180 градусов). Угол между лучами задается в поле, расположенном
+под полем Угол ввода.
+После задания всех необходимых параметров, нажмите кнопку Старт для
+запуска анимации. Чтобы остановить анимацию, нажмите кнопку Стоп." Height="195" HorizontalAlignment="Left" Margin="12,21,0,0" Name="label1" VerticalAlignment="Top" Width="454" DataContext="{Binding}" FontWeight="Normal" />
+    </Grid>
+</Window>

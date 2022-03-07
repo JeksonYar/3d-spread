@@ -1,0 +1,69 @@
+C:\Users\admin\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\admin\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\admin\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\admin\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\admin\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\admin\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\admin\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\admin\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\admin\Desktop\WpfApplication1 - копия\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\admin\Desktop\WpfApplication1 - копия\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\admin\Desktop\WpfApplication1 - копия\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\admin\Desktop\WpfApplication1 - копия\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\admin\Desktop\WpfApplication1 - копия\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\admin\Desktop\WpfApplication1 - копия\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\WpfApplication1 - копия\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\WpfApplication1 - копия\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\admin\Desktop\WpfApplication1 - копия\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\admin\Desktop\WpfApplication1 - копия\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\admin\Desktop\WpfApplication1 - копия\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\WpfApplication1 - копия - копия\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\admin\Desktop\WpfApplication1 - копия - копия\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\admin\Desktop\WpfApplication1 - копия - копия\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\admin\Desktop\WpfApplication1 - копия - копия\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\WpfApplication1 - копия - копия\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\WpfApplication1 - копия - копия\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\admin\Desktop\WpfApplication1 - копия - копия\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\admin\Desktop\WpfApplication1 - копия - копия\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\admin\Desktop\WpfApplication1 - копия - копия\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\WpfApplication1 - копия - копия\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\admin\Desktop\WpfApplication1 - копия - копия\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\admin\Desktop\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\admin\Desktop\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\admin\Desktop\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\admin\Desktop\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\admin\Desktop\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\admin\Desktop\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\admin\Desktop\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\WpfApplication1 - копия - копия - копия\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\admin\Desktop\WpfApplication1 - копия - копия - копия\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\admin\Desktop\курсовая\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\admin\Desktop\курсовая\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\admin\Desktop\курсовая\WpfApplication1 - копия - копия - копия\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\admin\Desktop\курсовая\WpfApplication1 - копия - копия - копия\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\admin\Desktop\курсовая\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\admin\Desktop\курсовая\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\курсовая\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\admin\Desktop\курсовая\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\admin\Desktop\курсовая\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\admin\Desktop\курсовая\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\admin\Desktop\курсовая\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\курсовая\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+D:\курсовая\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+D:\курсовая\WpfApplication1 - копия - копия - копия\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\курсовая\WpfApplication1 - копия - копия - копия\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\курсовая\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\MainWindow.baml
+D:\курсовая\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+D:\курсовая\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\App.g.cs
+D:\курсовая\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+D:\курсовая\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+D:\курсовая\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+D:\курсовая\WpfApplication1 - копия - копия - копия\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\Start.baml
+C:\Users\admin\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\Start.g.cs
+C:\Users\admin\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csprojAssemblyReference.cache
